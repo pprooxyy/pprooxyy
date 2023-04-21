@@ -1,4 +1,26 @@
-### Hi there 👋
+
+
+### 👋 Hello there, I'm Max!
+
+I'm a 23-year-old programming enthusiast with a passion for building amazing web applications. 💻
+
+### 💻 Skills
+
+I specialize in the following technologies:
+
+JavaScript
+HTML
+CSS
+Node.js
+Express.js
+Git and GitHub
+I'm currently learning React, Redux, and TypeScript to further advance my skills. 🔍
+
+### 📬 Let's connect!
+
+If you'd like to reach out to me, feel free to shoot me an email at scvortsovmaxim@gmail.com. I'm always open to discussing new projects and ideas. 🤝
+
+Thanks for stopping by my GitHub profile! I'm excited to see what the future holds for my programming journey. 🎉
 
 <!--
 **pprooxyy/pprooxyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
