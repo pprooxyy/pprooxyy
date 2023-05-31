@@ -14,7 +14,7 @@ CSS
 Node.js
 Express.js
 Git and GitHub
-I'm currently learning React, Redux, and TypeScript to further advance my skills. 🔍
+React, Redux, TypeScript. 🔍
 
 ### 📬 Let's connect!
 
