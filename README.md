@@ -2,7 +2,7 @@
 
 ### 👋 Hello there, I'm Max!
 
-I'm a 23-year-old programming enthusiast with a passion for building amazing web applications. 💻
+I'm a 23-year-old programming enthusiast with a passion for building amazing mobile and desktop web applications. 💻
 
 ### 💻 Skills
 
@@ -14,7 +14,9 @@ CSS
 Node.js
 Express.js
 Git and GitHub
-React, Redux, TypeScript. 🔍
+React, Redux, TypeScript
+Swift, SwiftUi
+🔍
 
 ### 📬 Let's connect!
 
