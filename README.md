@@ -17,5 +17,5 @@ const thai = {
 
 ---
 
-[![Linkedin: maxim-l](https://img.shields.io/badge/-maxim-l-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxim-lomakin/)](https://www.linkedin.com/in/maxim-lomakin/)
+[![Linkedin: maxim-l](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-lomakin/)
 [![GitHub pprooxyy](https://img.shields.io/github/followers/pprooxyy?label=follow&style=social)](https://github.com/pprooxyy)
